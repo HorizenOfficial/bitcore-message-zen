@@ -25,13 +25,13 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ZencashOfficial/bitcore-message-zen.git"
+    "url": "https://github.com/HorizenOfficial/bitcore-message-zen.git"
   },
   "dependencies": {
-    "bitcore-lib-zen": "ZencashOfficial/bitcore-lib-zen"
+    "bitcore-lib-zen": "HorizenOfficial/bitcore-lib-zen"
   },
   "devDependencies": {
-    "bitcore-build-zen": "ZencashOfficial/bitcore-build-zen",
+    "bitcore-build-zen": "HorizenOfficial/bitcore-build-zen",
     "brfs": "^1.3.0",
     "chai": "~1.10.0",
     "gulp": "^3.8.10"
